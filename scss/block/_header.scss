@@ -1,0 +1,72 @@
+.header_div{
+    display: flex;
+    align-items: center;
+    width: 1200px;
+    justify-content: space-between;
+
+    .header_list{
+        display: flex;
+        padding: 0;
+        margin: 0;
+        align-items: center;
+
+        .clas_dropdown{
+            background-color: #1c1c1c;
+            color: #ffffff;
+
+            &:hover{
+                color: #ffffff;
+            }
+        }
+    }
+}
+
+.logo_img{
+width: 150px;
+}
+
+.cataors_item{
+    width: 130px;
+    padding: 18px 16px;
+    a{
+        color: #ffffff;
+        text-decoration: none;
+    }
+}
+
+.dropdown{
+    width: 147px;
+    padding: 18px 46px 18px 16px;
+}
+
+.header_2_list{
+    display: flex;
+}
+li{
+    list-style-type: none;
+}
+.number_tag{
+    width: 148px;
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+}
+
+.btn_lightmont{
+    align-items: center;
+   button{
+    width: 58px;
+    height: 58px;
+    border-radius: 50%;
+    background-color: #272727;
+    color: #272727;
+   }
+}
+.button_login{
+    background-color: #272727;
+    a{
+        text-decoration: none;
+        color: #ffffff;
+    }
+}
