@@ -60,7 +60,10 @@ img {
 }
 
 .header_2_list {
+  width: 390px;
   display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 li {
@@ -87,7 +90,12 @@ li {
 }
 
 .button_login {
-  background-color: #272727;
+  width: 142px;
+  background-color: #299764;
+  margin: 0;
+  padding: 0;
+  padding: 18px 30px;
+  border-radius: 100px;
 }
 .button_login a {
   text-decoration: none;
