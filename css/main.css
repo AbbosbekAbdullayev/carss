@@ -118,4 +118,28 @@ li {
   width: 416px;
   margin-bottom: 290px;
   margin-left: 220px;
+}
+
+.input_search_slide {
+  width: 600px;
+  border-radius: 100px;
+  padding: 20px;
+  margin-left: 0 auto;
+  margin-right: 0 auto;
+  font-size: large;
+  margin-left: 290px;
+  position: relative;
+  bottom: 35px;
+  border: 0px solid #ffffff;
+}
+
+.bt_serach_slider {
+  width: 58px;
+  height: 58px;
+  border-radius: 100px;
+  background-color: #299764;
+  position: relative;
+  bottom: 36px;
+  right: 73px;
+  border: 0px solid #299764;
 }/*# sourceMappingURL=main.css.map */
