@@ -3,7 +3,7 @@ body {
   padding: 0;
   box-sizing: border-box;
   background-color: #1c1c1c;
-  font-family: sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 * ::after, *::before {
@@ -142,4 +142,24 @@ li {
   bottom: 36px;
   right: 73px;
   border: 0px solid #299764;
+}
+
+.choose_text_h2 {
+  width: 568px;
+  font-size: 36px;
+  color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  font-weight: 600;
+}
+
+.choose_text_p {
+  width: 575px;
+  color: #ffffff;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 400;
+  text-align: center;
+  font-size: 16px;
 }/*# sourceMappingURL=main.css.map */
